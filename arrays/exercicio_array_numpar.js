@@ -10,3 +10,5 @@ for (let i = 0; i < lista_num.length; i++){
         console.log(lista_num[i]);
     }
 }
+
+
